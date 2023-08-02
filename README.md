@@ -1,3 +1,3 @@
 # 12Ps
 
-Rules of the road for product definition
+Rules of the road for new product definition and launch
